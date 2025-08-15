@@ -1,18 +1,11 @@
 # 📦  Eng. Marcelo Barudi
 
 
-
-  * [**LinkedIn**](https://www.linkedin.com/in/marcelo-barudi/)
-  * [**GitHub**](https://github.com/MBARUDI)
-
-
-🧪 Como usar
-node index.js
-
- 
 <div align="center">
   <p align="center">
- 
+
+  🧪 DESCRIÇÃO
+
  Uma breve descrição sobre minhas qualificações
  
  Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
